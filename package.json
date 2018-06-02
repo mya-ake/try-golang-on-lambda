@@ -1,0 +1,14 @@
+{
+  "name": "try-golang-on-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mya-ake/try-golang-on-lambda.git",
+  "author": "mya-ake <make.app.ts@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "sls": "sls"
+  },
+  "devDependencies": {
+    "serverless": "^1.27.3"
+  }
+}
