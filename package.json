@@ -6,7 +6,8 @@
   "author": "mya-ake <make.app.ts@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "sls": "sls"
+    "sls": "sls",
+    "deploy": "make && sls deploy"
   },
   "devDependencies": {
     "serverless": "^1.27.3"
